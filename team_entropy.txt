@@ -1,0 +1,41 @@
+abandon
+1; kibbutz; "0,0,2,0,0,0,0"
+2; branchy; "2,0,1,1,0,0,0"
+3; abandon; "1,1,1,1,1,1,1"
+3
+coDicEs
+1; kibbutz; "0,2,0,0,0,0,0"
+2; jollily; "0,1,0,0,2,0,0"
+3; poisons; "0,1,2,0,0,0,1"
+4; codices; "1,1,3,1,1,3,1"
+5; coDicEs; "1,1,1,1,1,1,1"
+5
+lobbing
+1; kibbutz; "0,2,1,1,0,0,0"
+2; lobbied; "1,1,1,1,1,0,0"
+3; lobbing; "1,1,1,1,1,1,1"
+3
+accOunt
+1; kibbutz; "0,0,0,0,1,2,0"
+2; foxhunt; "0,4,0,0,1,1,1"
+3; accOunt; "1,1,1,1,1,1,1"
+3
+FIFthly
+1; kibbutz; "0,3,0,0,0,2,0"
+2; fIxated; "3,1,0,0,2,0,0"
+3; FIfthly; "1,1,3,1,1,1,1"
+4; FIFthly; "1,1,1,1,1,1,1"
+4
+writTEn
+1; kibbutz; "0,2,0,0,0,2,0"
+2; fortify; "0,0,2,1,2,0,0"
+3; centric; "0,4,2,1,2,2,0"
+4; writtEn; "1,1,1,1,3,1,1"
+5; writTEn; "1,1,1,1,1,1,1"
+5
+SEEKERS
+1; kibbutz; "4,0,0,0,0,0,0"
+2; franKly; "0,4,0,0,2,0,0"
+3; seeKeRs; "3,3,3,1,3,1,3"
+4; SEEKERS; "1,1,1,1,1,1,1"
+4
